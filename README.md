@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/soph-k/tech-blog"/>
+    <img src="https://img.shields.io/github/last-commit/soph-k/tech-blog"/>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-gold"/>
